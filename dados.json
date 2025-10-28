@@ -1,15 +1,17 @@
 {
-  "versao": 1,
-  "ucs": [
+  "versao": "1.0.3",
+  "unidades": [
     {
-      "numero": 1001,
-      "endereco": "-19.536557, -40.646217",
-      "latlong": "-19.536557, -40.646217"
+      "Id": 47032,
+      "Endereco": "Corrego Sao Jacinto",
+      "CoordenadaX": "331349.08",
+      "CoordenadaY": "7819807.72"
     },
     {
-      "numero": 1002,
-      "endereco": "-19.532557, -40.648217",
-      "latlong": "-19.536557, -40.646217"
+      "Id": 47033,
+      "Endereco": "Corrego Sao Jacinto",
+      "CoordenadaX": "331349.08",
+      "CoordenadaY": "7819807.72"
     }
   ]
 }
