@@ -2,14 +2,14 @@
   "versao": 1,
   "ucs": [
     {
-      "id": 1,
       "numero": 1001,
-      "endereco": "Córrego Azul"
+      "endereco": "-19.536557, -40.646217",
+      "latlong": "-19.536557, -40.646217"
     },
     {
-      "id": 2,
       "numero": 1002,
-      "endereco": "Rua das Flores"
+      "endereco": "-19.532557, -40.648217",
+      "latlong": "-19.536557, -40.646217"
     }
   ]
 }
