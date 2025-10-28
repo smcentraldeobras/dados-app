@@ -15,11 +15,6 @@
       "id": 3,
       "numero": 1003,
       "endereco": "Av. Central"
-    },
-    {
-      "id": 4,
-      "numero": 123,
-      "endereco": "Av. Central"
     }
   ]
 }
