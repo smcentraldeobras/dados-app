@@ -1,0 +1,20 @@
+{
+  "versao": 2,
+  "ucs": [
+    {
+      "id": 1,
+      "numero": 1001,
+      "endereco": "Córrego Azul"
+    },
+    {
+      "id": 2,
+      "numero": 1002,
+      "endereco": "Rua das Flores"
+    },
+    {
+      "id": 3,
+      "numero": 1003,
+      "endereco": "Av. Central"
+    }
+  ]
+}
